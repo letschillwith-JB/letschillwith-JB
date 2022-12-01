@@ -19,7 +19,7 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/hb91657593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/hb91657593" height="30" width="40" /></a>
 </p>
 
-<div align ="right" >
+<div align ="center" >
     <img src="https://media3.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif?cid=ecf05e47bvuxyx069j6olraxsozsl7q4o6fw1x46to8mtvlo&rid=giphy.gif&ct=g" alt="">
 </div>
 
