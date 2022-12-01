@@ -1,7 +1,10 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Jitesh Babani</h1>
 <h3 align="center">A passionate Java developer from Bhopal, (M.P)</h3>
 <div align = "center">
-<img margin="auto" src="https://media3.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif?cid=ecf05e47g3zmoy7tcva8m1xnapchgyfyu93xs4xwhmuv2885&rid=giphy.gif&ct=g" alt="">
+<img width="400" src="https://media3.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif?cid=ecf05e47g3zmoy7tcva8m1xnapchgyfyu93xs4xwhmuv2885&rid=giphy.gif&ct=g" alt="">
 </div>
 - 🌱 I’m currently learning **Java Development & Data Structure and Algorithem**
 
