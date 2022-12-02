@@ -1,7 +1,9 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Jitesh Babani</h1>
+<h1 align="center">Hi 
+ <img width="35" src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="">   
+  , I'm Jitesh Babani</h1>
 <h3 align="center">A passionate Java developer from Bhopal, (M.P)</h3>
 <div align = "center">
 <img width="400" src="https://media3.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif?cid=ecf05e47g3zmoy7tcva8m1xnapchgyfyu93xs4xwhmuv2885&rid=giphy.gif&ct=g" alt="">
