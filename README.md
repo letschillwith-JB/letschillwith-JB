@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Data Structures and Algorithms, Java, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://jitesh-babani.netlify.app/](https://jiteshbabani-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jitesh-babani.netlify.app/](https://letschillwith-jb.github.io/)
 
 - 💬 Ask me about **Anything**
 
